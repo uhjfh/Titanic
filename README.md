@@ -24,4 +24,5 @@ data source: https://www.kaggle.com/competitions/titanic/data
 
 ## Contact
 
-For questions or suggestions, you can reach me at uhjfh@student.kit.edu
+For questions or suggestions, you can reach me at annaqiu06@gmail.com
+
